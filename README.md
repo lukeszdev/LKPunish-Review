@@ -34,7 +34,7 @@ Ao utilizar o comando `/punicoes`, abrirá um menu listando todas as punições 
 
 ![](https://i.imgur.com/uHhS9BW.png)
 
-Com sistem integrado de revogar punições (também pode ser utilizado o comando `/despunir <nick>`
+Com sistema integrado de revogar punições (também pode ser utilizado o comando `/despunir <nick>`
 
 ![](https://i.imgur.com/ca0XxTo.png)
 
