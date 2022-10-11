@@ -1,4 +1,4 @@
-# LKPunish
+# LKPunish - Review
 Plugin de punições em GUI
 
 # Vídeo de demonstração
